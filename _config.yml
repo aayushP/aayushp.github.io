@@ -85,7 +85,7 @@ author:
   bio              : "NVIDIA"
   location         : "Toronto, Canada"
   employer         :
-  pubmed           : ""
+  # pubmed           : ""
   googlescholar    : "https://scholar.google.com/citations?user=hUXGzpgAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/aayushP"
   google_plus      :
   keybase          :
   instagram        :
