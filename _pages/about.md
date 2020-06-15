@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a senior researcher, part of Toronto AI lab, NVIDIA. My research interests lie at the juncture of machine learning, computer vision and computer graphics. Specifically, I work on sim-to-real problems for perception. I want to train effective real world models from simulation. Prior to NVIDIA, I worked at IBM Labs, Toronto, in a rather unrelated area - *Compilers*. 
+I'm a senior researcher, part of Toronto AI lab, NVIDIA. My research interests lie at the juncture of machine learning, computer vision and computer graphics. Specifically, I work on sim-to-real problems for perception. I want to train effective real world models from simulation. Prior to NVIDIA, I worked at IBM Labs, Toronto, on my previous passion - *Compilers*.
 I graduated with a B.Tech in *Electronics and Electrical Communication Engineering* from Indian Institute of Technology (IIT) Kharagpur, India, in 2010, and MASc in *Computer Engineering* from University of Waterloo, Canada, in 2013.
 <!-- I graduated from Indian Institute of Technology (IIT) Kharagpur, India, with a B.Tech in *Electronics and Electrical Communication Engineering* in 2010, and from University of Waterloo, Canada, with an MASc in *Computer Engineering* in 2013. -->
 
