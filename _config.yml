@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Aayush Prakash"
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   bio              : "NVIDIA"
   location         : "Toronto, Canada"
   employer         :
