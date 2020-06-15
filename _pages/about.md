@@ -29,7 +29,7 @@ Publications
 
 <span style="font-size:1.3em;">[Structured Domain Randomization: Bridging the Reality Gap by Context-Aware Synthetic Data](https://arxiv.org/pdf/1810.10093.pdf)</span><br/>
 <span style="font-size:1em;">Aayush Prakash, Shaad Boochoon, Mark Brophy, David Acuna, Eric Cameracci, Gavriel State, Omer Shapira, Stan Birchfield</span><br/>
-<span > In International Conference on Robotics and Automation (ICRA) 2019 (Oral) </span>
+<span > In International Conference on Robotics and Automation (ICRA) 2019 </span>
 
 
 
