@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a senior researcher, part of Toronto AI lab, NVIDIA. My research interests lie at the juncture of machine learning, computer vision and computer graphics. Specifically, I work on sim-to-real problems for perception. I want to train effective real world models from simulation. Prior to NVIDIA, I worked at IBM Labs, Toronto, in a rather unrelated area - *Compilers*. I graduated from Indian Institute of Technology (IIT) Kharagpur, India, with a B.Tech in *Electronics and Electrical Communication Engineering* in 2010, and from University of Waterloo, Canada, with an MaSC in *Computer Engineering* in 2013.
+I'm a senior researcher, part of Toronto AI lab, NVIDIA. My research interests lie at the juncture of machine learning, computer vision and computer graphics. Specifically, I work on sim-to-real problems for perception. I want to train effective real world models from simulation. Prior to NVIDIA, I worked at IBM Labs, Toronto, in a rather unrelated area - *Compilers*. 
+I graduated with a B.Tech in *Electronics and Electrical Communication Engineering* from Indian Institute of Technology (IIT) Kharagpur, India, in 2010, and MASc in *Computer Engineering* from University of Waterloo, Canada, in 2013.
+<!-- I graduated from Indian Institute of Technology (IIT) Kharagpur, India, with a B.Tech in *Electronics and Electrical Communication Engineering* in 2010, and from University of Waterloo, Canada, with an MASc in *Computer Engineering* in 2013. -->
 
 News
 ======
@@ -17,7 +19,7 @@ News
 * Feb. 2019: 1 paper accepted to ICRA
 * Jan. 2019: [Training Deep Networks with Synthetic Data](https://arxiv.org/pdf/1804.06516.pdf) recognized as **breakthrough** developments of 2017-2018 by [MIT](https://www.youtube.com/watch?v=53YvP6gdD7U&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf&index=4&t=1373s) 
 * Nov. 2018: Our work Structured Domain Randomziation featured in [TowardsDataScience](https://towardsdatascience.com/the-startling-power-of-synthetic-data-604aadb78c9d)
-* Jun. 2018:	[Training Deep Networks with Synthetic Data](https://arxiv.org/pdf/1804.06516.pdf) picked as the **top 10** coolest papers from CVPR2018" by [TowardsDataScience.](https://towardsdatascience.com/the-10-coolest-papers-from-cvpr-2018-11cb48585a49)
+* Jun. 2018:	[Training Deep Networks with Synthetic Data](https://arxiv.org/pdf/1804.06516.pdf) picked as the **top 10** coolest papers from CVPR2018 by [TowardsDataScience.](https://towardsdatascience.com/the-10-coolest-papers-from-cvpr-2018-11cb48585a49)
 
 Publications
 ======
