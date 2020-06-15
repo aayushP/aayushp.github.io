@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Aayush Prakash"
-  avatar           : "profile.png"
+  avatar           : "images/profile.png"
   bio              : "NVIDIA"
   location         : "Toronto, Canada"
   employer         :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@aayush382"
+  twitter          : "aayush382"
   vine             :
   weibo            :
   xing             :

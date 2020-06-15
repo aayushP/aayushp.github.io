@@ -13,7 +13,7 @@ I'm a senior researcher, part of Toronto AI lab, NVIDIA. My research interests i
 
 News
 ======
-* July 2019: 1 paepr accepted at ICCV (Oral)
+* July 2019: 1 paper accepted at ICCV (Oral)
 * May 2019: Our work Meta-Sim and Structured Domain Randomization featured in OpenAI [talk](http://josh-tobin.com/assets/pdf/BeyondDomainRandomization_Tobin_RSS19.pdf) and [blog](https://lilianweng.github.io/lil-log/2019/05/05/domain-randomization.html)
 * Feb. 2019: 1 paper accepted to ICRA
 * Jan. 2019: Training DeepNets with Synthetic Data recognized as **breakthrough** developments of 2017-2018 by [MIT Course](https://www.youtube.com/watch?v=53YvP6gdD7U&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf&index=4&t=1373s) 
