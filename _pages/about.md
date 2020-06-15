@@ -23,8 +23,6 @@ News
 Publications
 ======
 
-<span style="font-size:1.5em;">[Meta-Sim: Learning to Generate Synthetic Datasets](https://arxiv.org/pdf/1904.11621.pdf)</span>
-
+<span style="font-size:1.3em;">[Meta-Sim: Learning to Generate Synthetic Datasets](https://arxiv.org/pdf/1904.11621.pdf)</span>
 <span style="font-size:1em;">Amlan Kar, Aayush Prakash, Ming-Yu Liu, Eric Cameracci, Justin Yuan, Matt Rusiniak, David Acuna, Antonio Torralba, Sanja Fidler</span>
-
 <span > ICCV 2019 (Oral) </span>
