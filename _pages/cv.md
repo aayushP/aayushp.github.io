@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[Download here](http://academicpages.github.io/files/aayushp_resume.pdf)
+Download [here](http://aayushp.github.io/files/aayushp_resume.pdf)
