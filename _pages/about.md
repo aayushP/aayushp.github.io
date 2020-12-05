@@ -14,7 +14,8 @@ I graduated with a B.Tech in *Electronics and Electrical Communication Engineeri
 
 News
 ======
-* July 2019: 1 paper accepted at ICCV (Oral)
+* Dec 2020: Our work on [sim-to-real scene graph generation](https://arxiv.org/pdf/2011.14488.pdf) released.
+* Oct 2019: 1 paper accepted at ICCV (Oral)
 * May 2019: Our work [Meta-Sim](https://arxiv.org/pdf/1904.11621.pdf) and [Structured Domain Randomization](https://arxiv.org/pdf/1810.10093.pdf) featured in OpenAI [talk](http://josh-tobin.com/assets/pdf/BeyondDomainRandomization_Tobin_RSS19.pdf) and [blog](https://lilianweng.github.io/lil-log/2019/05/05/domain-randomization.html)
 * Feb. 2019: 1 paper accepted to ICRA
 * Jan. 2019: [Training Deep Networks with Synthetic Data](https://arxiv.org/pdf/1804.06516.pdf) recognized as **breakthrough** developments of 2017-2018 by [MIT](https://www.youtube.com/watch?v=53YvP6gdD7U&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf&index=4&t=1373s) 
@@ -23,6 +24,10 @@ News
 
 Publications
 ======
+<span style="font-size:1.3em;">[Sim2SG: Sim-to-Real Scene Graph Generation for Transfer Learning
+](https://arxiv.org/pdf/2011.14488.pdf)</span><br/>
+<span style="font-size:1em;">Aayush Prakash, Shoubhik Debnath, Jean-Francois Lafleche, Eric Cameracci, Gavriel State, Marc T. Law</span><br/>
+<span > under ICLR 2021 openreview </span>
 
 <span style="font-size:1.3em;">[Meta-Sim: Learning to Generate Synthetic Datasets](https://arxiv.org/pdf/1904.11621.pdf)</span><br/>
 <span style="font-size:1em;">Amlan Kar, Aayush Prakash, Ming-Yu Liu, Eric Cameracci, Justin Yuan, Matt Rusiniak, David Acuna, Antonio Torralba, Sanja Fidler</span><br/>
