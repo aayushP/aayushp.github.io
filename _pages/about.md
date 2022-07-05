@@ -3,22 +3,31 @@ permalink: /
 # title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I'm a senior researcher, part of Toronto AI lab, NVIDIA. My research interests lie at the juncture of machine learning, computer vision and computer graphics. Specifically, I work on sim-to-real problems for perception. I want to train effective real world models from simulation. Prior to NVIDIA, I was part of IBM Labs, Toronto, where I worked on *Compilers* - another area I've been interested in the past.
-I graduated with a B.Tech in *Electronics and Electrical Communication Engineering* from Indian Institute of Technology (IIT) Kharagpur, India, in 2010, and MASc in *Computer Engineering* from University of Waterloo, Canada, in 2013.
+
+I lead the machine learning team within the synthetic data organization at Reality Labs, Meta. My group works on problems at the juncture of machine learning, computer vision and computer graphics. Specifically they look at domain adaptation, neural rendering and other sim2real problems for mixed reality. Before joining Meta, I was the head of machine learning at synthetic data startup, AI Reverie. Prior to this, I worked at Nvidia where I spent 6 years on synthetic data research in computer vision. While at Nvidia, my group delivered some of the prominent works in synthetic data creation. I graduated with a B.Tech in E&ECE from Indian Institute of Technology (IIT) Kharagpur, India, in 2010, and MASc in Computer Engineering from University of Waterloo, Canada, in 2013.
+
+<!-- I'm a senior researcher, part of Toronto AI lab, NVIDIA. My research interests lie at the juncture of machine learning, computer vision and computer graphics. Specifically, I work on sim-to-real problems for perception. I want to train effective real world models from simulation. Prior to NVIDIA, I was part of IBM Labs, Toronto, where I worked on *Compilers* - another area I've been interested in the past.
+I graduated with a B.Tech in *Electronics and Electrical Communication Engineering* from Indian Institute of Technology (IIT) Kharagpur, India, in 2010, and MASc in *Computer Engineering* from University of Waterloo, Canada, in 2013. -->
 <!-- I graduated from Indian Institute of Technology (IIT) Kharagpur, India, with a B.Tech in *Electronics and Electrical Communication Engineering* in 2010, and from University of Waterloo, Canada, with an MASc in *Computer Engineering* in 2013. -->
 
 News
 ======
+* July 2022: 1 paper accepted at ECCV 2022.
+* June 2022: Gave an invited talk on synthetic data for mixed reality at CVPR 2022 [workshop](https://motchallenge.net/workshops/bmtt2022/index.html)
+* October 2021: Two papers accepted at ICCV 2021.
+* September 2021: I joined Meta Reality Labs as a Manager leading the machine learning team.
+* May 2021: Recognized as one of the top AI talent on [fortune](https://fortune.com/2021/04/20/why-corporate-use-of-a-i-flatlined-in-2020/?fbclid=IwAR0PMSytukz_CX2LAYf_DTAdvppHskW5Ca_fUBzF42DU7lF_8i4KcV5qcGg)
+* April 2021: I joined AI Reverie as Head of ML, which featured in [bloomberg](https://www.bloomberg.com/press-releases/2021-04-13/ai-reverie-appoints-former-nvidia-deep-learning-guru-aayush-prakash-as-head-of-machine-learning) and [businesswire](https://www.businesswire.com/news/home/20210413005853/en/AI.Reverie-Appoints-Former-NVIDIA-Deep-Learning-Guru-Aayush-Prakash-as-Head-of-Machine-Learning)
 * Dec 2020: Our work on [sim-to-real scene graph generation](https://arxiv.org/pdf/2011.14488.pdf) released.
 * Oct 2019: 1 paper accepted at ICCV (Oral)
 * May 2019: Our work [Meta-Sim](https://arxiv.org/pdf/1904.11621.pdf) and [Structured Domain Randomization](https://arxiv.org/pdf/1810.10093.pdf) featured in OpenAI [talk](http://josh-tobin.com/assets/pdf/BeyondDomainRandomization_Tobin_RSS19.pdf) and [blog](https://lilianweng.github.io/lil-log/2019/05/05/domain-randomization.html)
 * Feb. 2019: 1 paper accepted to ICRA
-* Jan. 2019: [Training Deep Networks with Synthetic Data](https://arxiv.org/pdf/1804.06516.pdf) recognized as **breakthrough** developments of 2017-2018 by [MIT](https://www.youtube.com/watch?v=53YvP6gdD7U&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf&index=4&t=1373s) 
+* Jan. 2019: [Training Deep Networks with Synthetic Data](https://arxiv.org/pdf/1804.06516.pdf) recognized as **breakthrough** developments of 2017-2018 by [MIT](https://www.youtube.com/watch?v=53YvP6gdD7U&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf&index=4&t=1373s)
 * Nov. 2018: Our work Structured Domain Randomziation featured in [TowardsDataScience](https://towardsdatascience.com/the-startling-power-of-synthetic-data-604aadb78c9d)
 * Jun. 2018:	[Training Deep Networks with Synthetic Data](https://arxiv.org/pdf/1804.06516.pdf) picked as the **top 10** coolest papers from CVPR2018 by [TowardsDataScience.](https://towardsdatascience.com/the-10-coolest-papers-from-cvpr-2018-11cb48585a49)
 
@@ -70,5 +79,3 @@ Patents
 <span style="font-size:1.0em;">Generation of Synthetic Images For Training a Neural Network Model</span><br/>
 <span style="font-size:1em;">Jonathan Tremblay, Aayush Prakash, Mark A Brophy, Varun Jampani, Cem Anil, Stanley Thomas Birchfield, Thang Hong To, David Jesus Acuna Marrero</span><br/>
 <span > US Patent App. 16/256,820  </span>
-
-
