@@ -23,7 +23,6 @@ News
 * Sept 2021: I joined Meta Reality Labs as engineering manager leading the machine learning group.
 * May 2021: Recognized as one of the top AI talent on [fortune.](https://archive.ph/rYF5y)
 * April 2021: I joined AI Reverie as Head of ML, which featured in [bloomberg](https://www.bloomberg.com/press-releases/2021-04-13/ai-reverie-appoints-former-nvidia-deep-learning-guru-aayush-prakash-as-head-of-machine-learning) and [businesswire](https://www.businesswire.com/news/home/20210413005853/en/AI.Reverie-Appoints-Former-NVIDIA-Deep-Learning-Guru-Aayush-Prakash-as-Head-of-Machine-Learning)
-* Dec 2020: Our work on [sim-to-real scene graph generation](https://arxiv.org/pdf/2011.14488.pdf) released.
 * Oct 2019: 1 paper accepted at ICCV (Oral)
 * May 2019: Our work [Meta-Sim](https://arxiv.org/pdf/1904.11621.pdf) and [Structured Domain Randomization](https://arxiv.org/pdf/1810.10093.pdf) featured in OpenAI [talk](http://josh-tobin.com/assets/pdf/BeyondDomainRandomization_Tobin_RSS19.pdf) and [blog](https://lilianweng.github.io/lil-log/2019/05/05/domain-randomization.html)
 * Feb. 2019: 1 paper accepted to ICRA
@@ -33,10 +32,15 @@ News
 
 Publications
 ======
-<span style="font-size:1.3em;">[Sim2SG: Sim-to-Real Scene Graph Generation for Transfer Learning
-](https://arxiv.org/pdf/2011.14488.pdf)</span><br/>
-<span style="font-size:1em;">Aayush Prakash, Shoubhik Debnath, Jean-Francois Lafleche, Eric Cameracci, Gavriel State, Marc T. Law</span><br/>
-<span > under ICLR 2021 openreview </span>
+<span style="font-size:1.3em;">[Self-Supervised Object Detection via Generative Image Synthesis
+](https://openaccess.thecvf.com/content/ICCV2021/papers/Mustikovela_Self-Supervised_Object_Detection_via_Generative_Image_Synthesis_ICCV_2021_paper.pdf)</span><br/>
+<span style="font-size:1em;"> Siva Karthik M, Shalini De Mello, Aayush Prakash, Umar Iqbal, Sifei Liu, Thu Nguyen-Phuoc, Carsten Rother, Jan Kautz</span><br/>
+<span >In International Conference of Computer Vision (ICCV) 2021 </span>
+
+<span style="font-size:1.3em;">[Self-Supervised Real-to-Sim Scene Generation
+](https://openaccess.thecvf.com/content/ICCV2021/papers/Prakash_Self-Supervised_Real-to-Sim_Scene_Generation_ICCV_2021_paper.pdf)</span><br/>
+<span style="font-size:1em;">Aayush Prakash, Shoubhik Debnath, Jean-Francois Lafleche, Eric Cameracci, Gavriel State, Stan Birchfield, Marc T. Law</span><br/>
+<span >In International Conference of Computer Vision (ICCV) 2021 </span>
 
 <span style="font-size:1.3em;">[Meta-Sim: Learning to Generate Synthetic Datasets](https://arxiv.org/pdf/1904.11621.pdf)</span><br/>
 <span style="font-size:1em;">Amlan Kar, Aayush Prakash, Ming-Yu Liu, Eric Cameracci, Justin Yuan, Matt Rusiniak, David Acuna, Antonio Torralba, Sanja Fidler</span><br/>
@@ -46,7 +50,6 @@ Publications
 <span style="font-size:1.3em;">[Structured Domain Randomization: Bridging the Reality Gap by Context-Aware Synthetic Data](https://arxiv.org/pdf/1810.10093.pdf)</span><br/>
 <span style="font-size:1em;">Aayush Prakash, Shaad Boochoon, Mark Brophy, David Acuna, Eric Cameracci, Gavriel State, Omer Shapira, Stan Birchfield</span><br/>
 <span > In International Conference on Robotics and Automation (ICRA) 2019 </span>
-
 
 
 <span style="font-size:1.3em;">[Training Deep Networks with Synthetic Data: Bridging the Reality Gap by Domain Randomization](https://arxiv.org/pdf/1804.06516.pdf)</span><br/>
@@ -67,9 +70,11 @@ Publications
 
 
 
-
 Patents
 ======
+<span style="font-size:1.0em;">Scene graph generation for unlabeled data</span><br/>
+<span style="font-size:1em;">Aayush Prakash, Shoubhik Debnath, Jean-Francois Lafleche, Eric Cameracci, Marc T. Law </span><br/>
+<span >US Patent App. 17/226,561</span>
 
 <span style="font-size:1.0em;">Learning to Generate Synthetic Datasets for Training Neural Networks</span><br/>
 <span style="font-size:1em;">Amlan Kar, Aayush Prakash, Ming-yu Liu, David Jesus Acuna Marrero, Antonio Torralba Barriuso, Sanja Fidler </span><br/>
@@ -78,4 +83,4 @@ Patents
 
 <span style="font-size:1.0em;">Generation of Synthetic Images For Training a Neural Network Model</span><br/>
 <span style="font-size:1em;">Jonathan Tremblay, Aayush Prakash, Mark A Brophy, Varun Jampani, Cem Anil, Stanley Thomas Birchfield, Thang Hong To, David Jesus Acuna Marrero</span><br/>
-<span > US Patent App. 16/256,820  </span>
+<span > US Patent 11,182,649  </span>
