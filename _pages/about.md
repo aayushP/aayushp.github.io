@@ -21,7 +21,7 @@ News
 * June 2022: Gave a talk on synthetic data for mixed reality at CVPR 2022 [workshop.](https://motchallenge.net/workshops/bmtt2022/index.html)
 * Oct 2021: Two papers accepted at ICCV 2021.
 * Sept 2021: I joined Meta Reality Labs as engineering manager leading the machine learning group.
-* May 2021: Recognized as one of the top AI talent on [fortune.](https://fortune.com/2021/04/20/why-corporate-use-of-a-i-flatlined-in-2020/?fbclid=IwAR0PMSytukz_CX2LAYf_DTAdvppHskW5Ca_fUBzF42DU7lF_8i4KcV5qcGg)
+* May 2021: Recognized as one of the top AI talent on [fortune.](https://archive.ph/rYF5y)
 * April 2021: I joined AI Reverie as Head of ML, which featured in [bloomberg](https://www.bloomberg.com/press-releases/2021-04-13/ai-reverie-appoints-former-nvidia-deep-learning-guru-aayush-prakash-as-head-of-machine-learning) and [businesswire](https://www.businesswire.com/news/home/20210413005853/en/AI.Reverie-Appoints-Former-NVIDIA-Deep-Learning-Guru-Aayush-Prakash-as-Head-of-Machine-Learning)
 * Dec 2020: Our work on [sim-to-real scene graph generation](https://arxiv.org/pdf/2011.14488.pdf) released.
 * Oct 2019: 1 paper accepted at ICCV (Oral)
