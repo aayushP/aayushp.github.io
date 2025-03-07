@@ -17,7 +17,14 @@ I graduated with a B.Tech in *Electronics and Electrical Communication Engineeri
 
 News
 ======
-* July 2022: 1 paper accepted at ECCV 2022.
+* Feb 2025: 1 paper accepted at CVPR 2025.
+* October 2024: 1 paper accepted at WACV 2025.
+* July 2024: 1 paper accepted at ECCV 2024.
+* June 2024: Organized second version “XRNeRF- Advances in Radiance Fields for the Metaverse” [workshop](https://sites.google.com/view/xrnerf/) at CVPR 2023 with Angela Dai (TUM) and Fernando Torre (CMU).
+* November 2023: 2 papers accepted at WACV 2024.
+* June 2023: Organized “XRNeRF- Advances in NeRF for the Metaverse” [workshop](https://sites.google.com/view/xrnerf/) at CVPR 2023 with Jon Barron (Google), Angjoo Kanazawa (UC Berkeley) and Fernando Torre (CMU).
+* September 2022: 1 paper accepted at WACV 2023.
+* July 2022: 1 paper accepted as Oral at ECCV 2022.
 * June 2022: Gave a talk on synthetic data for mixed reality at CVPR 2022 [workshop.](https://motchallenge.net/workshops/bmtt2022/index.html)
 * Oct 2021: Two papers accepted at ICCV 2021.
 * Sept 2021: I joined Meta Reality Labs as engineering manager leading the machine learning group.
